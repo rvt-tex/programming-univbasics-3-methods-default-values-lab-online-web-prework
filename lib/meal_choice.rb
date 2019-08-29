@@ -15,8 +15,10 @@
 
 
 def meal_choice(veg1, veg2, protein = "meat")
-  puts "Whether youre omnivourous, vegetarian, or vegan, your going to be eating a nutrious meal!"
+  puts "#{protein}"
 end
+
+
 
 def meal
 puts "#{what a nutrious meal!}"
