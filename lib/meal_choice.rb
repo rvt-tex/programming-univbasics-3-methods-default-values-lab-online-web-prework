@@ -15,16 +15,16 @@
 
 
 def meal_choice(veg1, veg2, protein = "meat")
-  puts "#{protein}"
+  puts " a plate of meat with broccli and macaroni."
 end
 
 
 
-def meal
-puts "#{what a nutrious meal!}"
-end
+#def meal
+#puts "#{what a nutrious meal!}"
+#end
 
-def selected_meal
-  puts "A plate of #{protein} with #{veg1} and #{veg2}."
-end
+#def selected_meal
+ # puts "A plate of #{protein} with #{veg1} and #{veg2}."
+#end
 
