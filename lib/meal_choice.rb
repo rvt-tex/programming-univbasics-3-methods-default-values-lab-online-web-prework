@@ -1,7 +1,7 @@
 # Your code here
 
-def meal_type1(veg1)
-  puts "#{veg1}"
+#def meal_type1(veg1)
+ # puts "#{veg1}"
 end
 
 def meal_type2(veg2)
