@@ -2,14 +2,14 @@
 
 #def meal_type1(veg1)
  # puts "#{veg1}"
-end
+#end
 
-def meal_type2(veg2)
-  puts "#{veg2}"
-end
+#def meal_type2(veg2)
+  #puts "#{veg2}"
+#end
 
-def meal_type3(protein)
-  puts "#{protein}"
+#def meal_type3(protein)
+ # puts "#{protein}"
 end
 
 
